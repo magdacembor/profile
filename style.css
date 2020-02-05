@@ -66,6 +66,14 @@ i:hover {
 
 }
 
+.button {
+  box-shadow: 2px 2px 3px rgb(54,60,76);
+  border-radius: 5px;
+  padding: 6px;
+  font-weight: 600;
+  background-image: url(images/black.jpg);
+}
+
 #footer {
 /*  background-image: url('images/black.jpg');*/
   /*width: 100%;*/
